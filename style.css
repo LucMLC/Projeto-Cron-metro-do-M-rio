@@ -1,0 +1,78 @@
+* {
+    font-family: 'Handjet', cursive;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vh;
+    height: 50vw;
+}
+
+.background {
+    background-image: url(./assets/1315439.png);
+    filter: opacity(90%);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.tudo {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 50%;
+    flex-direction: column;
+}
+
+.numbers {
+    display: flex;
+}
+
+h1 {
+    display: block;
+    background-color: #e2dddd;
+    font-size: 100px;
+    border-radius: 20px;
+}
+
+span {
+    display: block;
+    background-color:#e2dddd;
+    font-size: 100px;
+    margin-left: 15px;
+    border-radius: 20px;
+
+}
+
+.buttons{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 50%;
+    flex-direction:row;
+    
+}
+
+button{
+    width: 150px;
+    height: 70px;
+    margin: 30px 30px;
+    font-size: 55px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color:#e2dddd;
+}
+
+button:hover{
+    background: rgb(241, 13, 13);
+
+}
+
+button:active{
+    opacity: 0.6;
+}
+
