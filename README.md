@@ -2,6 +2,7 @@
 <br>
 <a href="https://cronometrodomario.netlify.app/"> Site publicado </a>
 <br>
+<br>
 <img src="./assets/Captura de tela 2024-02-14 222717.png" alt="Imagem do projeto">
 <img src="./assets/Captura de tela 2024-02-14 222759.png" alt="Imagem do projeto">
 
