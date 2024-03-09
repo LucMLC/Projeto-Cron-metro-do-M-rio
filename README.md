@@ -1,6 +1,6 @@
 <h1> Deploy</h1>
 <br>
-<a href="https://cronometrodomario.netlify.app/"> Site publicado </a>
+<a href="https://cronometrodomario.netlify.app/"> VISITE O PROJETO </a>
 <br>
 <br>
 <img src="./assets/Captura de tela 2024-02-14 222717.png" alt="Imagem do projeto">
